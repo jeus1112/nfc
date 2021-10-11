@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "628270795743",
+    "firebase_url": "https://sns-project-nfc-8334a.firebaseio.com",
+    "project_id": "sns-project-nfc-8334a",
+    "storage_bucket": "sns-project-nfc-8334a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628270795743:android:5dc1534d624c9e91ad926a",
+        "android_client_info": {
+          "package_name": "com.example.sns_project_nfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628270795743-s8r7ekqqa5r3krtlq0mslh51vkbk1q0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6X7_fAE_f0BzGwR6rVNO2xGGmqHZHSNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628270795743-s8r7ekqqa5r3krtlq0mslh51vkbk1q0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

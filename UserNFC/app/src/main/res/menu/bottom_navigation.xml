@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nfc"
+        android:icon="@drawable/ic_nfc_24dp"
+        android:title="NFC" />
+    <item
+        android:id="@+id/announce"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="공지사항" />
+    <item
+        android:id="@+id/checkList"
+        android:icon="@drawable/ic_checklist_24dp"
+        android:title="체크리스트" />
+    <item
+        android:id="@+id/myInfo"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="회원정보" />
+</menu>

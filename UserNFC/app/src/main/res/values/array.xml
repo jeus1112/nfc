@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="building">
+        <item>101동</item>
+        <item>102동</item>
+        <item>103동</item>
+        <item>201동</item>
+        <item>202동</item>
+        <item>203동</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit">
+        <item>101호</item>
+        <item>102호</item>
+        <item>103호</item>
+        <item>201호</item>
+        <item>202호</item>
+        <item>203호</item>
+        <item>301호</item>
+        <item>302호</item>
+        <item>303호</item>
+        <item>401호</item>
+        <item>402호</item>
+        <item>403호</item>
+        <item>501호</item>
+        <item>502호</item>
+        <item>503호</item>
+    </string-array>
+</resources>
